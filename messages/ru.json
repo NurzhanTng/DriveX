@@ -1,0 +1,81 @@
+{
+  "LocaleSwitcher": {
+    "label": "Язык",
+    "locale": "{locale, select, ru {Русский} en {Английский} other {Неизвестный}}"
+  },
+  "LocaleLayout": {
+    "title": "DriveX",
+    "description": "DriveX - единственное решение для хранения данных, которое вам нужно"
+  },
+  "IndexPage": {
+    "available": "Доступное место",
+    "spaceUsed": "Использовано",
+    "maxSize": "2ГБ"
+  },
+  "AuthPages": {
+    "mainTitle": "Управляйте своими файлами наилучшим образом",
+    "mainDescription": "Это место, где вы можете хранить все свои документы",
+    "email": "Email",
+    "emailPlaceholder": "Введите вашу почту",
+    "fullName": "Полное имя",
+    "fullNamePlaceholder": "Введите ваше полное имя",
+    "dontHaveAccount": "У вас нет аккаунта?",
+    "alreadyHaveAccount": "У вас уже есть аккаунт?",
+    "signUp": "Зарегистрироваться",
+    "signIn": "Войти",
+    "accountCreateError": "Не удалось создать учетную запись. Пожалуйста, попробуйте еще раз."
+  },
+  "OtpModal": {
+    "modalTitle": "Введите код с почты",
+    "modalDescription": "Мы отправили код на почту",
+    "didntGet": "Не получили код?",
+    "resent": "Отправить еще раз",
+    "submit": "Отправить"
+  },
+  "DashboardPage": {
+    "resentFiles": "Последние загруженные файлы"
+  },
+  "FileUploader": {
+    "maxSizeErrors": "слишком большой. Максимальный размер файла - 50 МБ.",
+    "upload": "Загрузить",
+    "uploading": "Загрузка"
+  },
+  "Search": {
+    "placeholder": "Поиск ...",
+    "noFiles": "Файлы не найдены"
+  },
+  "FilePages": {
+    "sortBy": "Сортировать по:",
+    "noFilesError": "Файлы не загружены",
+    "by": "От: ",
+    "total": "Общий размер: ",
+    "documents": "документы",
+    "images": "изображение",
+    "media": "медиа",
+    "other": "другое"
+  },
+  "ActionModalContent": {
+    "Main": {
+      "areYouSure": "Вы уверены, что хотите удалить ",
+      "cancel": "Отмена",
+      "rename":  "переименовать",
+      "delete": "удалить",
+      "share": "поделиться"
+    },
+    "FileDetails": {
+      "format": "Формат:",
+      "size": "Размер:",
+      "owner": "Владелец:",
+      "lastEdit": "Изменено:"
+    },
+    "ShareInput": {
+      "shareWithOthers": "Поделитесь файлом с другими пользователями",
+      "emailPlaceholder": "Введите адрес электронной почты",
+      "shareWith": "Поделились с",
+      "users": " пользователями"
+    }
+  },
+  "MobileNavigation": {
+    "logout": "Выйти"
+  }
+}

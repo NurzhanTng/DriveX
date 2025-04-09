@@ -1,0 +1,81 @@
+{
+  "LocaleSwitcher": {
+    "label": "Language",
+    "locale": "{locale, select, ru {Russian} en {English} other {Unknown}}"
+  },
+  "LocaleLayout": {
+    "title": "DriveX",
+    "description": "DriveX - The only storage solution you need"
+  },
+  "IndexPage": {
+    "available": "Available Storage",
+    "spaceUsed": "Space used",
+    "maxSize": "2GB"
+  },
+  "AuthPages": {
+    "mainTitle": "Manage your files the best way",
+    "mainDescription": "This is a place where you can store all your documents",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "fullName": "Full Name",
+    "fullNamePlaceholder": "Enter your full name",
+    "dontHaveAccount": "Don't have an account?",
+    "alreadyHaveAccount": "Already have an account?",
+    "signUp": "Sign Up",
+    "signIn": "Sign In",
+    "accountCreateError": "Failed to create account. Please try again."
+  },
+  "OtpModal": {
+    "modalTitle": "Enter your OTP",
+    "modalDescription": "We've send a code to",
+    "didntGet": "Didn't get a code?",
+    "resent": "Click to resend",
+    "submit": "Submit"
+  },
+  "DashboardPage": {
+    "resentFiles": "Recent files uploaded"
+  },
+  "FileUploader": {
+    "maxSizeErrors": "is too large. Max file size is 50MB.",
+    "upload": "Upload",
+    "uploading": "Uploading"
+  },
+  "Search": {
+    "placeholder": "Search ...",
+    "noFiles": "No files found"
+  },
+  "FilePages": {
+    "sortBy": "Sort by:",
+    "noFilesError": "No files uploaded",
+    "by": "By: ",
+    "total": "Total: ",
+    "documents": "documents",
+    "images": "images",
+    "media": "media",
+    "other": "other"
+  },
+  "ActionModalContent": {
+    "Main": {
+      "areYouSure": "Are you sure you want to delete ",
+      "cancel": "Cancel",
+      "rename":  "rename",
+      "delete": "delete",
+      "share": "share"
+    },
+    "FileDetails": {
+      "format": "Format:",
+      "size": "Size:",
+      "owner": "Owner:",
+      "lastEdit": "Last Edit:"
+    },
+    "ShareInput": {
+      "shareWithOthers": "Share file with other users",
+      "emailPlaceholder": "Enter email address",
+      "shareWith": "Share with",
+      "users": " users"
+    }
+  },
+  "MobileNavigation": {
+    "logout": "Logout"
+  }
+}
