@@ -30,24 +30,24 @@
 
 ## Установка
 1. Клонируйте репозиторий:
-   ^^^bash
+   ```bash
    git clone https://github.com/NurzhanTng/DriveX.git
-   ^^^
+   ```
 
 2. Установите зависимости:
-   ^^^bash
+   ```bash
    npm install
-   ^^^
+   ```
 
 3. Запустите сервер разработки:
-   ^^^bash
+   ```bash
    npm run dev
-   ^^^
+   ```
 
 4. Откройте ваш браузер и посетите:
-   ^^^
+   ```
    http://localhost:3000
-   ^^^
+   ```
 
 ## Скриншоты
 
